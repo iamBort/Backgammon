@@ -1,0 +1,12 @@
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\bin\Debug\Vrhcaby.exe.config
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\bin\Debug\Vrhcaby.exe
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\bin\Debug\Vrhcaby.pdb
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\bin\Debug\Vrhcaby.xml
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.vbproj.AssemblyReference.cache
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.Form1.resources
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.Resources.resources
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.vbproj.GenerateResource.cache
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.exe
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.xml
+C:\Users\Daniel Vokurka\source\repos\Vrhcaby\Vrhcaby\obj\Debug\Vrhcaby.pdb

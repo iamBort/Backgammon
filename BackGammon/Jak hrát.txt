@@ -1,0 +1,25 @@
+VRHCÁBY
+----------------
+Daniel Vokurka 
+________________
+
+Jak hrát?:
+- Cíl: Dostat svých 15 kamenů do cíle
+- Hráč1 začíná na sloupci 1 a cíl je za sloupcem 24
+- Hráč2 začíná na sloupci 24 a cíl je za sloupcem 1
+- Kameny jsou na začátku hry sami rozložené po mapě
+- Na začátku začíná hráč jedna a pak hráč 2
+- Každé kolo se hazí dvěmi kostkami; Po hození se uzavře házení kostkou a jsou přístupněny tlačítka s operacemi
+- Aby hráč posunul kamenem, musí si nejdříve vybrat sloupec, kde jsou jeho kameny, pomocí radio buttonu
+- Potom stačí použít tlačítka na posun
+- Když hráč hodí 2 různá čísla, hráč dostane 2 tahy a může si vybrat mezi 3 tlačítky (Posun kostkou 1, Posun kostkou 2 a Posun oběma kostami); Posun kostkou 1 a 2 sebere jeden tah, mezitím posun oběma kostkami sebere oba tahy
+- Když hráč hodí 2 stejná čísla, dostane 4 tahy a zpřístupní se mu tlačíto "Posun pro 2 stejné kostky", které stojí 1 tah
+- Hráč může posunout kamenem pokud je sloupec prázdný, sloupec obsahuje jeho kameny a nebo obsahuje jeden kámen druhého hráče (Nepřátelský kámen se pak vyhodí a přičte se k veličině vyhozené) 
+- Hráč má vždy k dispozici tlačítko "Obnovení kamene", které může použít jednou za kolo; Platí pro něj stejná pravidla jako pro posun kamene (Nemůže obnovit, pokud je sloupec obsazen dvěmi a více kameny druhého hráče)
+- Tlačítko "Obnovení kamene" obnový kámen z vyhozených kamenů na začínajícím sloupci hráče
+- Pokud hráč nemůže využít všechny tahy, může pak použít tlačítko "Ukončit kolo", které ukončí jeho kolo předčasně
+- Když někdo vyhraje, ukáže se zpráva s možností o uložení výsledků
+- Hra se na konci sama resetuje a může se začít od znova
+- Je k dispozici tlačítko "Restart", které resetuje hru (Obsahuje i potvrzení, jestli chceme opravdu hru restartovat)
+
+
